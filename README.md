@@ -6,9 +6,9 @@
 I am a student of United International University (UIU) department of Computer Science and Engineering. I love to learn new skills. 
 
 Skills: HTML / CSS / Js / C / c++ / JAVA / PHP / REACT / MySql
-</br>
+- 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+- 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React and Expressjs.
