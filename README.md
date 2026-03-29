@@ -22,10 +22,10 @@ Skills: HTML / CSS / Js / C / C++ / JAVA / PHP / REACT / MySql
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/@__arafat_khan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pathan__13913" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arafat-khan-pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arafat-khan-pathan" height="30" width="40" /></a>
 <a href="https://fb.com/arafat.khan.pathann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arafat.khan.pathan.13913" height="30" width="40" /></a>
 <a href="https://instagram.com/arafat.khan.pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_arafat_pathan______" height="30" width="40" /></a>
+<a href="https://x.com/@__arafat_khan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pathan__13913" height="30" width="40" /></a>
 </p>
 
 
