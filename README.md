@@ -13,7 +13,6 @@ Skills: HTML / CSS / C / JAVA
 - 🌱 I’m currently learning C++ and Js.
 - 👯 I’m looking to collaborate on GitHub.
 - 💬 Ask me about Programming.
-- 📫 How to reach me **arafatbdboy1133@gmail.com**
 
 
 
