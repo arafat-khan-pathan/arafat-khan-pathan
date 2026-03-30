@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200§ion=header&text=Hello%20World&fontSize=90" />
-  <h1>Hi 👋, I'm Arafat Khan Pathan</h1>
+  <h1>Arafat Khan Pathan</h1>
 </div>
 
 I am a student of United International University (UIU) department of Computer Science and Engineering. I love to learn new skills. 
