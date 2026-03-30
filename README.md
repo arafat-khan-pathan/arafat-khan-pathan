@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200§ion=header&text=Hello%20World&fontSize=90" />
-  <h1>Hi 👋, I'm **Arafat Khan Pathan**</h1>
-  <p>A passionate developer from Bangladesh 🇧🇩</p>
+  <h1>Hi 👋, I'm Arafat Khan Pathan</h1>
 </div>
 
 <img src="images/profile22.jpg" alt="profile" /> 
