@@ -3,9 +3,6 @@
   <h1>Hi 👋, I'm Arafat Khan Pathan</h1>
 </div>
 
-<img src="images/profile22.jpg" alt="profile" /> 
- 
-
 I am a student of United International University (UIU) department of Computer Science and Engineering. I love to learn new skills. 
 
 Skills: HTML / CSS / Js / C / C++ / JAVA / PHP / REACT / MySql
@@ -33,8 +30,7 @@ Skills: HTML / CSS / Js / C / C++ / JAVA / PHP / REACT / MySql
 </p>
 
 
-
-
+<img src="images/profile22.jpg" alt="profile" /> 
 
 
 <!--
