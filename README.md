@@ -29,6 +29,7 @@ Skills: HTML / CSS / Js / C / C++ / JAVA / PHP / REACT / MySql
 <a href="https://x.com/@__arafat_khan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pathan__13913" height="30" width="40" /></a>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E018&width=435&lines=Hello+World!;Welcome+to+my+profile!;Syntax+Error!;I+am+a+Programmer!;Page+Not+Found!;I+love+to+learn+new+things!;Error+404+Not+Found!;I+am+learning+React+and+Expressjs!;Page+is+under+construction!)](https://git.io/typing-svg)
 
 <img src="images/profile22.jpg" alt="profile" /> 
 
