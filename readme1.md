@@ -1,0 +1,51 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200§ion=header&text=Hello%20World&fontSize=90" />
+  <h1>Arafat Khan Pathan</h1>
+</div>
+
+I am a student of United International University (UIU) department of Computer Science and Engineering. I love to learn new skills. 
+
+Skills: HTML / CSS / Js / C / C++ / JAVA / PHP / REACT / MySql
+
+<!-- <br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br> -->
+
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning React and Expressjs.
+- 👯 I’m looking to collaborate on GitHub.
+- 💬 Ask me about Programming.
+
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arafat-khan-pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arafat-khan-pathan" height="30" width="40" /></a>
+<a href="https://fb.com/arafat.khan.pathann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arafat.khan.pathan.13913" height="30" width="40" /></a>
+<a href="https://instagram.com/arafat.khan.pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_arafat_pathan______" height="30" width="40" /></a>
+<a href="https://x.com/@__arafat_khan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pathan__13913" height="30" width="40" /></a>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E018&width=435&lines=Hello+World!;Welcome+to+my+profile!;Syntax+Error!;I+am+a+Programmer!;Page+Not+Found!;I+love+to+learn+new+things!;Error+404+Not+Found!;I+am+learning+React+and+Expressjs!;Page+is+under+construction!)](https://git.io/typing-svg)
+
+<img src="images/profile22.jpg" alt="profile" /> 
+
+
+<!--
+### Hi there 👋
+**pAthAn13913/pAthAn13913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
