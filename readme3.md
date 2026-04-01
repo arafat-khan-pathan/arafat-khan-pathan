@@ -1,0 +1,71 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Arafat%20Khan%20Pathan&fontSize=48&fontColor=ffffff" alt="header" />
+
+  <h3>CSE Student | Aspiring Software Engineer | ML Enthusiast</h3>
+
+  <a href="https://github.com/arafat-khan-pathan">
+    <img src="https://komarev.com/ghpvc/?username=arafat-khan-pathan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/arafat-khan-pathan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/arafat-khan-pathan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Hello+World!;Welcome+to+my+GitHub+Profile!;I+love+to+learn+new+skills.;Currently+learning+React+and+Express.js;Let's+build+something+great+together!" alt="Typing SVG" />
+</p>
+
+## About Me
+I am a student of United International University (UIU), Department of Computer Science and Engineering. I enjoy learning new technologies and building practical projects.
+
+- Passionate about software engineering, problem-solving, and machine learning
+- Focused on improving both coding quality and development workflow
+- Believe that debugging is a key part of innovation
+
+## Skills
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+## Current Status
+- 🔭 I am currently working on this profile and small development projects.
+- 🌱 I am currently learning React and Express.js.
+- 👯 I am looking to collaborate on GitHub projects.
+- 💬 Ask me about programming.
+
+## Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/arafat-khan-pathan" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/arafat.khan.pathann" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/arafat.khan.pathan" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+  <a href="https://x.com/__arafat_khan__" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="30" width="40" />
+  </a>
+</p>
+
+- Email: arafatkhanpathan.me@gmail.com
+
+## Quick Facts
+- Location: Dhaka, Bangladesh
+- Languages: Bengali (Native), English (Conversational), Hindi/Urdu (Verbal)
+- Mindset: "Every bug is a step toward better code."
