@@ -37,10 +37,12 @@ I am a student of **United International University** (UIU), Department of Compu
 - Believe that debugging is a key part of innovation
 
 ## Skills and Tools
-- Languages: C, C++, Java, Python, PHP, JavaScript (ES6+)
-- Web: HTML5, CSS3, Tailwind CSS, Bootstrap, React.js
-- Backend/Database: Node.js, Express.js, MySQL
-- Tools: Git, GitHub, VS Code, AI-assisted development tools
+
+- **Programming Languages:** C, C++, Java, Python, PHP, JavaScript (ES6+)
+- **Web Technologies:** HTML5, CSS3, Tailwind CSS, Bootstrap, React.js (learning)
+- **Backend & Database:** MySQL, Node.js (learning), Express.js (learning)
+- **Tools & Platforms:** Git, GitHub, VS Code, AI-assisted development tools
+  
 <br> <br>
 
 <p>
