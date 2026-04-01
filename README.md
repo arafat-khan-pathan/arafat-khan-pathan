@@ -38,8 +38,7 @@ I am a student of **United International University** (UIU), Department of Compu
 
 ## Skills and Tools
 - Languages: C, C++, Java, Python, PHP, JavaScript (ES6+)
-- Web: HTML5, CSS3, Tailwind CSS, Bootstrap
-- Frontend: React.js
+- Web: HTML5, CSS3, Tailwind CSS, Bootstrap, React.js
 - Backend/Database: Node.js, Express.js, MySQL
 - Tools: Git, GitHub, VS Code, AI-assisted development tools
 <br> <br>
