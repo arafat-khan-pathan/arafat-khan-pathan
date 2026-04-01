@@ -86,7 +86,7 @@ I am a student of **United International University** (UIU), Department of Compu
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="30" width="40" />
   </a>
 </p>
-
+<br>
 - Email: arafatkhanpathan.me@gmail.com
 
 ## Quick Facts
