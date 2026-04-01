@@ -42,7 +42,6 @@ I am a student of **United International University** (UIU), Department of Compu
 - **Web Technologies:** HTML5, CSS3, Tailwind CSS, Bootstrap, React.js (learning)
 - **Backend & Database:** MySQL, Node.js (learning), Express.js (learning)
 - **Tools & Platforms:** Git, GitHub, VS Code, AI-assisted development tools
-  
 <br> <br>
 
 <p>
