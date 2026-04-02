@@ -89,7 +89,7 @@ I am a student of **United International University** (UIU), Department of Compu
 <br>
 
 - Email: arafatkhanpathan.me@gmail.com
-- CV: https://github.com/arafat-khan-pathan/Arafat_Khan_CV.git
+- CV: https://github.com/arafat-khan-pathan/Arafat_Khan_CV
 
 ## Quick Facts
 - Location: Dhaka, Bangladesh
