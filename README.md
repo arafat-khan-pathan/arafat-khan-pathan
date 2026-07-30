@@ -25,9 +25,11 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Hello+World!;Welcome+to+my+GitHub+Profile!;I+love+to+learn+new+skills.;Currently+learning+React+and+Express.js;Let's+build+something+great+together!" alt="Typing SVG" />
-</p>
+</p> -->
+
+---
 
 ## About Me
 I am a student of **United International University** (UIU), Department of Computer Science and Engineering. I enjoy learning new technologies and building practical projects.
